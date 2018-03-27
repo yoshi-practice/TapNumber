@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TapDragon</string>
+    <string name="explain">\n【あらすじ】突如われわれの目の前に現れた「テックメンター」。果たしてテックメンターを倒し、先に進むことができるのだろうか…？ \n\n【遊び方】 表示される番号を順番に押して、攻撃だ！残り時間のゲージがなくなるまでにメンターのHPを0にしよう！倒す事ができたら、やり直して何度も挑戦してみよう！</string>
+
+</resources>
